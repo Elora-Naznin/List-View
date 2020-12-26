@@ -1,9 +1,9 @@
 [
     {
-        "Title": "Twilight: Breaking Dawn",
-        "Cover":"https://img.yts.mx/assets/images/movies/Twilight_Saga_Breaking_Dawn_Part_1_2011/medium-cover.jpg",
-        "Year": 2011,
-        "Genre": "Romance",
+        "Title": "Pather Panchali",
+        "Cover":"https://upload.wikimedia.org/wikipedia/en/7/77/Pather_panchali_poster_in_color_1.jpg",
+        "Year": 1955,
+        "Genre": "Drama",
         "Rating": 4.9
     },
     {
