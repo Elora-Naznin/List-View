@@ -7,52 +7,52 @@
         "Rating": 4.9
     },
     {
-        "Title": "Remember Me",
-        "Cover":"https://img.yts.mx/assets/images/movies/Remember_Me_2010/medium-cover.jpg",
-        "Year": 2010,
-        "Genre": "Romance",
-        "Rating": 7.1
+        "Title": "Amazon Obhijaan",
+        "Cover":"https://upload.wikimedia.org/wikipedia/en/thumb/2/25/Official_Poster_of_Amazon_Obhijaan.jpg/220px-Official_Poster_of_Amazon_Obhijaan.jpg",
+        "Year": 2017,
+        "Genre": "Adventure",
+        "Rating": 3.3
     },
     {
-        "Title": "Fast Five",
-        "Cover":"https://img.yts.mx/assets/images/movies/Fast_Five_2011/medium-cover.jpg",
-        "Year": 2011,
-        "Genre": "Action",
-        "Rating": 7.3
+        "Title": "Heerak Rajar Deshe",
+        "Cover":"https://upload.wikimedia.org/wikipedia/en/e/e0/Hirak_Rajar_Deshe_poster.jpg",
+        "Year": 1980,
+        "Genre": "Comedy",
+        "Rating": 4.9
     },
     {
-        "Title": "Iron Man",
-        "Cover":"https://img.yts.mx/assets/images/movies/Iron_Man_2008/medium-cover.jpg",
-        "Year": 2008,
-        "Genre": "Action",
-        "Rating": 7.9
+        "Title": "Goopy Gyne Bagha Byne",
+        "Cover":"https://images-na.ssl-images-amazon.com/images/I/81V8fHmbzWL._SX355_.jpg",
+        "Year": 1969,
+        "Genre": "Comedy",
+        "Rating": 4.9
     },
     {
-        "Title": "Passengers",
-        "Cover":"https://img.yts.mx/assets/images/movies/passengers_2016/medium-cover.jpg",
-        "Year": 2016,
-        "Genre": "Sci-Fi",
-        "Rating": 7
+        "Title": "Ek Je Chhilo Raja",
+        "Cover":"https://upload.wikimedia.org/wikipedia/en/7/75/Ek_Je_Chhilo_Raja_film_poster.png",
+        "Year": 2018,
+        "Genre": "Drama",
+        "Rating": 3.7
     },
     {
-        "Title": "The Condemned 2",
-        "Cover":"https://img.yts.mx/assets/images/movies/the_condemned_2_2015/medium-cover.jpg",
+        "Title": "Guptodhoner Sondhane",
+        "Cover":"https://upload.wikimedia.org/wikipedia/en/thumb/7/72/The_official_theatrical_release_poster_of_film_Guptodhoner_Sondhane.jpeg/220px-The_official_theatrical_release_poster_of_film_Guptodhoner_Sondhane.jpeg",
+        "Year": 2018,
+        "Genre": "Adventure",
+        "Rating": 4.5
+    },
+    {
+        "Title": "Shonar Pahar",
+        "Cover":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQn4aEkVkFK7Mbf13M1hzOPECIclTwlD35BwyDPd0oVcfdRo4e-",
+        "Year": 2018,
+        "Genre": "Drama",
+        "Rating": 4.7
+    },
+    {
+        "Title": "Bela Seshe",
+        "Cover":"https://static.toiimg.com/photo/65305257.cms",
         "Year": 2015,
-        "Genre": "Action",
-        "Rating": 4.1
-    },
-    {
-        "Title": "Extraction",
-        "Cover":"https://img.yts.mx/assets/images/movies/extraction_2020/medium-cover.jpg",
-        "Year": 2020,
-        "Genre": "Action",
-        "Rating": 6.7
-    },
-    {
-        "Title": "Troy",
-        "Cover":"https://img.yts.mx/assets/images/movies/Troy_2004/medium-cover.jpg",
-        "Year": 2004,
-        "Genre": "Action",
-        "Rating": 7.3
+        "Genre": "Drama",
+        "Rating": 4.3
     } 
 ]
